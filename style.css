@@ -34,6 +34,7 @@
     left: 600px;
     animation: cactus-move infinite linear;
     /* animation-duration: 1.7s; */
+    
 }
 .jump{
     animation: jump 0.8s infinite;
